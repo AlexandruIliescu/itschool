@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Bank practice session">
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Session5 preview">
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/extra/feb05/LivingRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/extra/feb05/ManagementService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/extra/feb11/BankAccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/extra/feb11/UserBankAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/extra/feb11/UserDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/session5/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/session5/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/itschool/practice/session5/PracticeOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/feb05/LivingRoom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/practice-session/ro/itschool/practice/feb05/ManagementService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/feb05/LivingRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb05/LivingRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/feb05/ManagementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb05/ManagementService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/feb11/BankAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb11/BankAccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/feb11/UserBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb11/UserBankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/feb11/UserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb11/UserDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/session5/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/session5/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BookingService">
+  <component name="RunManager" selected="Application.ForConstruction">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -96,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AnotherTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.AnotherTest" />
+      <module name="practice-session" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.itschool.practice.session5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BankAccountService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.feb11.BankAccountService" />
       <module name="practice-session" />
@@ -122,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManagementService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.feb05.ManagementService" />
+    <configuration name="ForConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.ForConstruction" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.extra.feb05.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,25 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.feb11.Test" />
+    <configuration name="ro.itschool.practice.session5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.Test" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.extra.feb11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.feb11.UserDetails" />
-      <module name="practice-session" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.extra.feb11.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForConstruction" />
+        <item itemvalue="Application.AnotherTest" />
+        <item itemvalue="Application.ro.itschool.practice.session5.Test" />
         <item itemvalue="Application.BookingService" />
         <item itemvalue="Application.BankAccountService" />
-        <item itemvalue="Application.UserDetails" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ManagementService" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,8 @@
       <updated>1676069468907</updated>
       <workItem from="1676131689203" duration="27000" />
       <workItem from="1676131723716" duration="7287000" />
-      <workItem from="1676244917980" duration="3465000" />
+      <workItem from="1676244917980" duration="3601000" />
+      <workItem from="1676304607324" duration="8877000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -204,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676109154942</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Session5 preview">
+      <created>1676248702413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676248702413</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +224,7 @@
     <MESSAGE value="Added extra practice session from 5 feb" />
     <MESSAGE value="Added .gitignore file" />
     <MESSAGE value="Cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup" />
+    <MESSAGE value="Session5 preview" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session5 preview" />
   </component>
 </project>
