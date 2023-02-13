@@ -1,8 +1,7 @@
-package ro.itschool.practice.feb11;
+package ro.itschool.practice.extra.feb11;
 
 import java.time.LocalTime;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.List;
 
 public class BankAccountService {

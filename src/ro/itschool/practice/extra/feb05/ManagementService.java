@@ -1,4 +1,4 @@
-package ro.itschool.practice.feb05;
+package ro.itschool.practice.extra.feb05;
 
 public class ManagementService {
 

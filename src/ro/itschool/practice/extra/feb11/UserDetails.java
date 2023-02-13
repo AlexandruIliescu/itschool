@@ -1,4 +1,4 @@
-package ro.itschool.practice.feb11;
+package ro.itschool.practice.extra.feb11;
 
 import java.util.UUID;
 
