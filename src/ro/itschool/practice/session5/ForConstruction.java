@@ -4,7 +4,7 @@ public class ForConstruction {
 
     public static void main(String[] args) {
         int[] myArray = {1, 2, 3, 4};
-        //  0  1  2  3  4
+                     //  0  1  2  3  4
         String[] stringArray = {"dog", "cat", "horse"};
 //        print number of integers
 //        System.out.println(myArray.length);
