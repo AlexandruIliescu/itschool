@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Session5">
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Code formatting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb15/TestFlowControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ro/itschool/practice/extra/feb15/TestFlowControl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +60,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -179,7 +180,7 @@
       <workItem from="1676244917980" duration="3601000" />
       <workItem from="1676304607324" duration="11804000" />
       <workItem from="1676416694879" duration="2204000" />
-      <workItem from="1676471260047" duration="585000" />
+      <workItem from="1676471260047" duration="2598000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -251,7 +252,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676314809450</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Updated as a challenge, on extra package">
+      <created>1676471942208</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676471942208</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Code formatting">
+      <created>1676472030788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676472030788</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,6 +278,8 @@
     <MESSAGE value="Cleanup" />
     <MESSAGE value="Session5 preview" />
     <MESSAGE value="Session5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Session5" />
+    <MESSAGE value="Updated as a challenge, on extra package" />
+    <MESSAGE value="Code formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code formatting" />
   </component>
 </project>
