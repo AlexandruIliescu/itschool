@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Session5" />
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Session5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,24 +40,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Software/itschool&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Software/itschool/src/ro/itschool/practice/session6&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\itschool\src\ro\itschool\practice\session6" />
       <recent name="$PROJECT_DIR$/src/ro/itschool/practice/feb05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForConstruction">
+  <component name="RunManager" selected="Application.Test">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -100,19 +104,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.feb11.BankAccountService" />
-      <module name="practice-session" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.extra.feb11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="BookingService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.BookingService" />
       <module name="practice-session" />
@@ -139,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.Test" />
+      <module name="practice-session" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ro.itschool.practice.session5.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.Test" />
       <module name="practice-session" />
@@ -154,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.ForConstruction" />
         <item itemvalue="Application.AnotherTest" />
         <item itemvalue="Application.ro.itschool.practice.session5.Test" />
         <item itemvalue="Application.BookingService" />
-        <item itemvalue="Application.BankAccountService" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +177,9 @@
       <workItem from="1676131689203" duration="27000" />
       <workItem from="1676131723716" duration="7287000" />
       <workItem from="1676244917980" duration="3601000" />
-      <workItem from="1676304607324" duration="9242000" />
+      <workItem from="1676304607324" duration="11804000" />
+      <workItem from="1676416694879" duration="2204000" />
+      <workItem from="1676471260047" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -210,7 +216,42 @@
       <option name="project" value="LOCAL" />
       <updated>1676314626261</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Session5">
+      <created>1676314719518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314719518</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Session5">
+      <created>1676314747167</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314747167</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Session5">
+      <created>1676314759966</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314759966</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Session5">
+      <created>1676314762048</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314762048</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Session5">
+      <created>1676314809450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676314809450</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
