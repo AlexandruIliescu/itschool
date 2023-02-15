@@ -20,7 +20,6 @@ public class TestFlowControl {
         userDetailsList.add(userDetails3);
 
     }
-
 }
 
 class User {
