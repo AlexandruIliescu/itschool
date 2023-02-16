@@ -18,7 +18,6 @@ public class AdvancedFlowControl {
         }
 
         //clasic switch construction
-
         String dayOfWeek = getDayOfWeek();
         switch (dayOfWeek) {
             case DAY_OF_WEEK_MONDAY:

@@ -12,7 +12,6 @@ public class ForLoop {
         List<String> myArrayList = new ArrayList<>();
         List<String> myLinkedList = new LinkedList<>();
 
-
         int[] classicArray = {1, 2, 3};
         //                    0  1  2
 
@@ -33,7 +32,6 @@ public class ForLoop {
         for(int arrayValue : classicArray){
             System.out.println("Print from for-each loop: " + arrayValue);
         }
-
 
         List<String> anotherArrayList = new ArrayList<>();
         Random random = new Random();
