@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Advanced Flow Control and recap" />
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Advanced Flow Control and recap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -60,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdvancedFlowControl">
+  <component name="RunManager" selected="Application.ServiceApplication">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -118,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.ForConstruction" />
+    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.ForLoop" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session5.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.ForLoop" />
+    <configuration name="ServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.carservice.ServiceApplication" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="PATTERN" value="ro.itschool.practice.extra.carservice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ServiceApplication" />
         <item itemvalue="Application.AdvancedFlowControl" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.FlowControl" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ForConstruction" />
       </list>
     </recent_temporary>
   </component>
