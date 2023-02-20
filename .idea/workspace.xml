@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Advanced Flow Control and recap" />
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Advanced Flow Control and recap">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -41,7 +44,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Software/itschool/src/ro/itschool/practice/session6&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Software/itschool/src/ro/itschool/practice/session7&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\itschool\src\ro\itschool\practice\session7" />
       <recent name="D:\Software\itschool\src\ro\itschool\practice\session6" />
       <recent name="$PROJECT_DIR$/src/ro/itschool/practice/feb05" />
     </key>
@@ -60,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AdvancedFlowControl">
+  <component name="RunManager" selected="Application.PracticeWithStrings">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AdvancedFlowControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.AdvancedFlowControl" />
+    <configuration name="BreakStatementExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.BreakStatementExample" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlowControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.FlowControl" />
+    <configuration name="JavaCoreApi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.JavaCoreApi" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session5.ForConstruction" />
+    <configuration name="NestedLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.NestedLoops" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session5.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.ForLoop" />
+    <configuration name="PracticeWithStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.PracticeWithStrings" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session6.Test" />
+    <configuration name="ro.itschool.practice.session7.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.Test" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session6.*" />
+          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdvancedFlowControl" />
-        <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.FlowControl" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ForConstruction" />
+        <item itemvalue="Application.PracticeWithStrings" />
+        <item itemvalue="Application.JavaCoreApi" />
+        <item itemvalue="Application.BreakStatementExample" />
+        <item itemvalue="Application.NestedLoops" />
+        <item itemvalue="Application.ro.itschool.practice.session7.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +185,10 @@
       <workItem from="1676304607324" duration="11804000" />
       <workItem from="1676416694879" duration="2204000" />
       <workItem from="1676471260047" duration="4637000" />
-      <workItem from="1676564005162" duration="9428000" />
+      <workItem from="1676564005162" duration="9501000" />
+      <workItem from="1676583047646" duration="6000" />
+      <workItem from="1676849736756" duration="4785000" />
+      <workItem from="1676910486885" duration="9978000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -281,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676582601575</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Advanced Flow Control and recap">
+      <created>1676582703716</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676582703716</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
