@@ -17,8 +17,8 @@ public class PracticeWithStrings {
         if (userInputPrepared.equals(userSavedOnDatabase)) {
             System.out.println("Welcome to the app!");
         }
-//        for(int index = 0; index < animal.length(); index++){
-//            System.out.println(animal.charAt(index));
-//        }
+        for(int index = 0; index < animal.length(); index++){
+            System.out.println(animal.charAt(index));
+        }
     }
 }
