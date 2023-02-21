@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Advanced Flow Control and recap">
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Session 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracticeWithStrings">
+  <component name="RunManager" selected="Application.Codeforces1791A">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -102,6 +102,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ro.itschool.practice.session7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Codeforces1791A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.extra.codeforces.Codeforces1791A" />
+      <module name="practice-session" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.itschool.practice.extra.codeforces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,26 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ro.itschool.practice.session7.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.Test" />
-      <module name="practice-session" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Codeforces1791A" />
         <item itemvalue="Application.PracticeWithStrings" />
         <item itemvalue="Application.JavaCoreApi" />
         <item itemvalue="Application.BreakStatementExample" />
         <item itemvalue="Application.NestedLoops" />
-        <item itemvalue="Application.ro.itschool.practice.session7.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +188,9 @@
       <workItem from="1676564005162" duration="9501000" />
       <workItem from="1676583047646" duration="6000" />
       <workItem from="1676849736756" duration="4785000" />
-      <workItem from="1676910486885" duration="9978000" />
+      <workItem from="1676910486885" duration="10097000" />
+      <workItem from="1676965666154" duration="24000" />
+      <workItem from="1677006192236" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -295,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676582703716</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Session 7">
+      <created>1676925257847</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676925257847</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Session 7">
+      <created>1676925316088</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676925316088</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,6 +327,7 @@
     <MESSAGE value="Code formatting" />
     <MESSAGE value="Flow Control" />
     <MESSAGE value="Advanced Flow Control and recap" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Flow Control and recap" />
+    <MESSAGE value="Session 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session 7" />
   </component>
 </project>
