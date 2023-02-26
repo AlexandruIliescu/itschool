@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Codeforces Checking problem">
+    <list default="true" id="3fbf3b7a-15cd-46ab-928e-af394b8e46f7" name="Changes" comment="Practice">
+      <change afterPath="$PROJECT_DIR$/src/ro/itschool/practice/codewars/AbbreviateTwoWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ro/itschool/practice/test/Test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="codeforces-1791-a" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/lang/String.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/time/LocalDate.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/time/format/DateTimeFormatter.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.base/java/util/Scanner.java" root0="SKIP_INSPECTION" />
     <setting file="jar://C:/Program Files/Java/jdk-19/lib/src.zip!/java.sql/java/sql/Date.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -58,7 +62,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -73,7 +77,7 @@
       <recent name="$PROJECT_DIR$/src/ro/itschool" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UtilityClassesPractice">
+  <component name="RunManager" selected="Application.AbbreviateTwoWords">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -105,6 +109,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AbbreviateTwoWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.codewars.AbbreviateTwoWords" />
+      <module name="practice-session" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.itschool.practice.codewars.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JavaCoreApiPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session8.JavaCoreApiPractice" />
       <module name="practice-session" />
@@ -118,34 +135,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeWithStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session7.PracticeWithStrings" />
-      <module name="practice-session" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringBuilderPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session8.StringBuilderPractice" />
-      <module name="practice-session" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.itschool.practice.session8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.session8.Test" />
       <module name="practice-session" />
       <extension name="coverage">
         <pattern>
@@ -170,13 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ro.itschool.practice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.itschool.practice.Test" />
+      <module name="practice-session" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.itschool.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AbbreviateTwoWords" />
+        <item itemvalue="Application.ro.itschool.practice.Test" />
         <item itemvalue="Application.UtilityClassesPractice" />
         <item itemvalue="Application.StringBuilderPractice" />
         <item itemvalue="Application.JavaCoreApiPractice" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PracticeWithStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +205,10 @@
       <workItem from="1676965666154" duration="24000" />
       <workItem from="1677006192236" duration="5298000" />
       <workItem from="1677093708772" duration="4267000" />
-      <workItem from="1677163556482" duration="9024000" />
+      <workItem from="1677163556482" duration="10344000" />
+      <workItem from="1677226180514" duration="1217000" />
+      <workItem from="1677426333972" duration="1880000" />
+      <workItem from="1677435886887" duration="5424000" />
     </task>
     <task id="LOCAL-00001" summary="Added extra practice session from 5 feb">
       <created>1676108015646</created>
@@ -329,7 +336,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677006887224</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Session8">
+      <created>1677179232979</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1677179232979</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Test commit for pull request">
+      <created>1677179356285</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677179356285</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +368,9 @@
     <MESSAGE value="Advanced Flow Control and recap" />
     <MESSAGE value="Session 7" />
     <MESSAGE value="Codeforces Checking problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces Checking problem" />
+    <MESSAGE value="Session8" />
+    <MESSAGE value="Test commit for pull request" />
+    <MESSAGE value="Practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
   </component>
 </project>
