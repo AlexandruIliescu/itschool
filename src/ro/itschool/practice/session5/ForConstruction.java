@@ -1,5 +1,7 @@
 package ro.itschool.practice.session5;
 
+import ro.itschool.practice.session9.practice.User;
+
 public class ForConstruction {
 
     public static void main(String[] args) {
