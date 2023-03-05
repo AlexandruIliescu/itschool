@@ -17,7 +17,6 @@ public class Vehicle {
         practice.genericMethod();
 
         PracticeWithVariables.printElementsFromList(brandList);
-
         String convertedInt = String.valueOf(234);
 
         getBrand();
