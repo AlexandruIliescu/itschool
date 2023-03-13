@@ -8,4 +8,9 @@ public class Dog implements Animal, Food {
     public void eat() {
         System.out.println("Dog wants to eat.");
     }
+
+    @Override
+    public void getName() {
+
+    }
 }
