@@ -1,6 +1,4 @@
-package ro.itschool.practice.session16;
-
-import java.util.Objects;
+package ro.itschool.practice.session16.practice;
 
 public class User {
 

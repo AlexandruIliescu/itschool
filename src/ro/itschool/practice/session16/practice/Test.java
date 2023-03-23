@@ -1,4 +1,4 @@
-package ro.itschool.practice.session16;
+package ro.itschool.practice.session16.practice;
 
 import java.util.HashSet;
 import java.util.Set;
